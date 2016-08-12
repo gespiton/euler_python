@@ -1,0 +1,7 @@
+fucking A,
+spent so many time consider the problem of for loop scope
+and the result is that I forget the gap that I might never get into the
+for roop and get the ite number
+
+you can't change the loop controler
+such ad i :for i in range(1, 10)
